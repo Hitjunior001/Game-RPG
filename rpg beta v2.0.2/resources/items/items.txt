@@ -1,0 +1,170 @@
+def save_itens():
+    items = [
+    {
+        "name": "Potion Life",
+        "type": "potion",
+        "style": "all",
+        "damage": 0,
+        "armor": 0,
+        "life": 50,
+        "energy": 0,
+        "gold": 20
+    },
+    {
+        "name": "Potion Energy",
+        "type": "potion",
+        "style": "all",
+        "damage": 0,
+        "armor": 0,
+        "life": 0,
+        "energy": 50,
+        "gold": 20
+    },
+    {
+        "name": "Potion Full",
+        "type": "potion",
+        "style": "all",
+        "damage": 0,
+        "armor": 0,
+        "life": 50,
+        "energy": 50,
+        "gold": 40
+    },
+    {
+        "name": "Iron chest",
+        "type": "chest",
+        "style": "all",
+        "damage": 0,
+        "armor": 20,
+        "life": 0,
+        "energy": 0,
+        "gold": 20
+    },
+    {
+        "name": "Dragon Breastplate",
+        "type": "chest",
+        "style": "all",
+        "damage": 0,
+        "armor": 40,
+        "life": 0,
+        "energy": 0,
+        "gold": 50
+    },
+    {
+        "name": "Balesta",
+        "type": "weapon",
+        "style": "archery",
+        "damage": 30,
+        "armor": 0,
+        "life": 0,
+        "energy": 0,
+        "gold": 30
+    },
+    {
+        "name": "Bow",
+        "type": "weapon",
+        "style": "archery",
+        "damage": 15,
+        "armor": 0,
+        "life": 0,
+        "energy": 0,
+        "gold": 10
+    },
+    {
+        "name": "Katana",
+        "type": "weapon",
+        "style": "sword",
+        "damage": 35,
+        "armor": 0,
+        "life": 0,
+        "energy": 0,
+        "gold": 50
+    },
+    {
+        "name": "Dagger",
+        "type": "weapon",
+        "style": "all",
+        "damage": 10,
+        "armor": 0,
+        "life": 0,
+        "energy": 0,
+        "gold": 10
+    },
+    {
+        "name": "Toothpick",
+        "type": "weapon",
+        "style": "all",
+        "damage": 10,
+        "armor": 0,
+        "life": 0,
+        "energy": 0,
+        "gold": 10
+    },
+        {
+        "name": "Toothpick",
+        "type": "weapon",
+        "style": "all",
+        "damage": 2,
+        "armor": 0,
+        "life": 0,
+        "energy": 0,
+        "gold": 2
+    },
+    {
+        "name": "Claymore",
+        "type": "weapon",
+        "style": "sword",
+        "damage": 10,
+        "armor": 0,
+        "life": 0,
+        "energy": 0,
+        "gold": 10
+    },
+    {
+        "name": "Spear",
+        "type": "weapon",
+        "style": "lancer",
+        "damage": 10,
+        "armor": 0,
+        "life": 0,
+        "energy": 0,
+        "gold": 10
+    },
+    {
+        "name": "Big Spear",
+        "type": "weapon",
+        "style": "lancer",
+        "damage": 25,
+        "armor": 0,
+        "life": 0,
+        "energy": 0,
+        "gold": 30
+    },
+    {
+        "name": "Sharptooth",
+        "type": "weapon",
+        "style": "sharptooth",
+        "damage": 10,
+        "armor": 0,
+        "life": 0,
+        "energy": 0,
+        "gold": 10
+    },
+    {
+        "name": "Stared Sharptooth",
+        "type": "weapon",
+        "style": "sharptooth",
+        "damage": 30,
+        "armor": 0,
+        "life": 0,
+        "energy": 0,
+        "gold": 30
+    }
+    ]
+    # salva a lista de itens em um arquivo .json
+    with open("resources/items/items_salesman.json", "w") as f:
+        json.dump(items, f)
+    # carrega a lista de itens a partir do arquivo .json
+    with open("resources/items/items_salesman.json", "r") as f:
+        data = json.load(f)
+        print(data)

@@ -1,0 +1,22 @@
+Game Version 1.8
+Created by Reginaldo and Andre
+Participation of João and Jorge
+Features:
+- Bugs fixeds
+- - Put informational can not use the item when picking up             
+- - Tidy up the void while walking in the dungeon or donjon
+- - Tidying up sleep in days
+- - Not curing life while sleeping
+- - Arrange arrow purchase in blacksmith
+- - Bug when picking up item
+- - Balance the chance to fall into the dungeons
+- - Problem when not being able to equip an item
+- - Problem when not being able to attack Mob
+- - Problem when not being able to use the special even with the gun
+- System of language
+- - translate for PT-BR
+- - translate for para EN-US
+- You cannot attack whitout equipped weapon
+- Map in beta
+- Now you can only fall into the dungeons at a certain level
+- Balancing the monsters on the main map

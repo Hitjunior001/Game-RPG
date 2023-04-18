@@ -1,0 +1,25 @@
+Versão do jogo 1.8
+Criado por Reginaldo e André
+Participação de João e Jorge
+Características:
+- Bugs corrigidos
+- - Arrumar o dormir da Arqueira
+- - Colocar informativo de não pode usar o item ao pegar             
+- - Arrumar o vazio ao andar na dungeon ou donjon
+- - Arrumar o dormir em dias
+- - Não curando vida ao dormir
+- - Arrumar compra de flecha no blacksmith
+- - Bug ao pegar item
+- - Balancear a chance de cair nas dungeons
+- - Problema ao não conseguir equipar um item
+- - Problema ao não conseguir atacar Mob
+- - Problema ao não conseguir usar o especial mesmo com a arma
+- Um novo menu principal para o Jogo
+- Um sistema para salvar e carregar o jogo
+- Sistema de linguagem
+- - Jogo traduzido para PT-BR
+- - Jogo traduzido para EN-US
+- Você não pode atacar se não tiver uma arma equipada
+- Mapa em estado beta na dungeon.
+- Agora você só pode cair nas dungeons em um determinado level
+- Balanceamentos dos monstros no mapa principal

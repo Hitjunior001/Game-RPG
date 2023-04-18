@@ -1,0 +1,222 @@
+{
+    "potions": [
+    {
+        "name": "Potion Life",
+        "typer": "potion",
+        "style": "all",
+        "damage": 0,
+        "armor": 0,
+        "life": 50,
+        "energy": 0,
+        "gold": 10
+    },
+    {
+        "name": "Potion Energy",
+        "typer": "potion",
+        "style": "all",
+        "damage": 0,
+        "armor": 0,
+        "life": 0,
+        "energy": 50,
+        "gold": 10
+    },
+    {
+        "name": "Potion Full",
+        "typer": "potion",
+        "style": "all",
+        "damage": 0,
+        "armor": 0,
+        "life": 50,
+        "energy": 50,
+        "gold": 20
+    }
+],
+    "armors": [
+    {
+        "name": "Iron chest",
+        "typer": "chest",
+        "style": "all",
+        "damage": 0,
+        "armor": 20,
+        "life": 0,
+        "energy": 0,
+        "gold": 20
+    },
+    {
+        "name": "Dragon Breastplate",
+        "typer": "chest",
+        "style": "all",
+        "damage": 0,
+        "armor": 40,
+        "life": 0,
+        "energy": 0,
+        "gold": 50
+    }
+],
+    "weapons": [
+    {
+        "name": "Balesta",
+        "typer": "weapon",
+        "style": "archery",
+        "damage": 30,
+        "armor": 0,
+        "life": 0,
+        "energy": 0,
+        "gold": 30
+    },
+    {
+        "name": "Bow",
+        "typer": "weapon",
+        "style": "archery",
+        "damage": 15,
+        "armor": 0,
+        "life": 0,
+        "energy": 0,
+        "gold": 10
+    },
+    {
+        "name": "Quiver",
+        "typer": "quiver",
+        "style": "archery",
+        "damage": 0,
+        "armor": 0,
+        "life": 0,
+        "energy": 0,
+        "gold": 10,
+        "arrows": 0
+    },
+    {
+        "name": "Arrow",
+        "typer": "quiver",
+        "style": "archery",
+        "damage": 0,
+        "armor": 0,
+        "life": 0,
+        "energy": 0,
+        "gold": 5,
+        "arrows": 10
+    },
+    {
+        "name": "Katana",
+        "typer": "weapon",
+        "style": "sword",
+        "damage": 35,
+        "armor": 0,
+        "life": 0,
+        "energy": 0,
+        "gold": 50
+    },
+    {
+        "name": "Claymore",
+        "typer": "weapon",
+        "style": "sword",
+        "damage": 10,
+        "armor": 0,
+        "life": 0,
+        "energy": 0,
+        "gold": 10
+    },
+    {
+        "name": "Berserker Sword",
+        "typer": "weapon",
+        "style": "sword",
+        "damage": 40,
+        "armor": 0,
+        "life": 0,
+        "energy": 0,
+        "gold": 55
+    },
+    {
+        "name": "Dagger",
+        "typer": "weapon",
+        "style": "all",
+        "damage": 10,
+        "armor": 0,
+        "life": 0,
+        "energy": 0,
+        "gold": 10
+    },
+    {
+        "name": "Toothpick",
+        "typer": "weapon",
+        "style": "all",
+        "damage": 2,
+        "armor": 0,
+        "life": 0,
+        "energy": 0,
+        "gold": 2
+    },
+    {
+        "name": "Spear",
+        "typer": "weapon",
+        "style": "lancer",
+        "damage": 10,
+        "armor": 0,
+        "life": 0,
+        "energy": 0,
+        "gold": 10
+    },
+    {
+        "name": "Big Spear",
+        "typer": "weapon",
+        "style": "lancer",
+        "damage": 25,
+        "armor": 0,
+        "life": 0,
+        "energy": 0,
+        "gold": 30
+    },
+    {
+        "name": "Sharptooth",
+        "typer": "weapon",
+        "style": "sharptooth",
+        "damage": 10,
+        "armor": 0,
+        "life": 0,
+        "energy": 0,
+        "gold": 10
+    },
+    {
+        "name": "Stared Sharptooth",
+        "typer": "weapon",
+        "style": "sharptooth",
+        "damage": 30,
+        "armor": 0,
+        "life": 0,
+        "energy": 0,
+        "gold": 30
+    },
+    {
+        "name": "Scythe",
+        "typer": "weapon",
+        "style": "shadow",
+        "damage": 10,
+        "armor": 0,
+        "life": 0,
+        "energy": 0,
+        "gold": 10
+    }
+    ],
+    "utility": [
+    {
+        "name": "Map",
+        "typer": "test",
+        "style": "all",
+        "damage": 0,
+        "armor": 0,
+        "life": 0,
+        "energy": 0,
+        "gold": 25
+    },
+    {
+        "name": "Bag",
+        "typer": "bag",
+        "style": "all",
+        "damage": 0,
+        "armor": 0,
+        "life": 0,
+        "energy": 0,
+        "gold": 25
+    }
+    ]
+}

@@ -1,0 +1,190 @@
+{
+    "Ground": {
+        "1": {
+            "name": "Ferocious Boar",
+            "hp": 15,
+            "maxHp": 15,
+            "damage": 7,
+            "level": 0,
+            "probability_min": 0,
+            "probability_max": 1
+        },
+        "2": {
+            "name": "Bufallo",
+            "hp": 15,
+            "maxHp": 15,
+            "damage": 8,
+            "level": 0,
+            "probability_min": 2,
+            "probability_max": 3
+        },
+        "3": {
+            "name": "Crocodile",
+            "hp": 15,
+            "maxHp": 15,
+            "damage": 5,
+            "level": 0,
+            "probability_min": 4,
+            "probability_max": 5
+        },
+        "4": {
+            "name": "Komodo Dragon",
+            "hp": 20,
+            "maxHp": 20,
+            "damage": 10,
+            "level": 0,
+            "probability_min": 6,
+            "probability_max": 7
+        },
+        "5": {
+            "name": "Panther",
+            "hp": 20,
+            "maxHp": 20,
+            "damage": 8,
+            "level": 0,
+            "probability_min": 8,
+            "probability_max": 10
+        },
+        "6": {
+            "name": "Globin Sneaky",
+            "hp": 10,
+            "maxHp": 10,
+            "damage": 3,
+            "level": 0,
+            "probability_min": 12,
+            "probability_max": 15
+        },
+        "7": {
+            "name": "Globin Lancer",
+            "hp": 10,
+            "maxHp": 10,
+            "damage": 3,
+            "level": 0,
+            "probability_min": 16,
+            "probability_max": 16
+        }
+    },
+    "Donjon": {
+        "1": {
+            "name": "Scorpion",
+            "hp": 30,
+            "maxHp": 30,
+            "damage": 15,
+            "level": 0,
+            "probability_min": 0,
+            "probability_max": 7
+        },
+        "2": {
+            "name": "Scorpion King",
+            "hp": 50,
+            "maxHp": 50,
+            "damage": 20,
+            "level": 0,
+            "probability_min": 8,
+            "probability_max": 13        
+        },
+        "3": {
+            "name": "Giant Centipede",
+            "hp": 100,
+            "maxHp": 100,
+            "damage": 35,
+            "level": 0,
+            "probability_min": 14,
+            "probability_max": 16
+        }
+    },
+    "Dungeon": {
+        "1": {
+            "name": "Skeletion Warrior",
+            "hp": 30,
+            "maxHp": 30,
+            "damage": 30,
+            "level": 0,
+            "probability_min": 1,
+            "probability_max": 2
+        },
+        "2": {
+            "name": "Cockroach",
+            "hp": 10,
+            "maxHp": 10,
+            "damage": 1,
+            "level": 0,
+            "probability_min": 3,
+            "probability_max": 5
+        },
+        "3": {
+            "name": "Globin Sneaky",
+            "hp": 15,
+            "maxHp": 15,
+            "damage": 5,
+            "level": 0,
+            "probability_min": 6,
+            "probability_max": 8
+        },
+        "4": {
+            "name": "Yeti",
+            "hp": 50,
+            "maxHp": 50,
+            "damage": 25,
+            "level": 0,
+            "probability_min": 9,
+            "probability_max": 9
+        },
+        "5": {
+            "name": "Rat",
+            "hp": 10,
+            "maxHp": 10,
+            "damage": 5,
+            "level": 0,
+            "probability_min": 10,
+            "probability_max": 13
+        },
+        "6": {
+            "name": "Spider",
+            "hp": 20,
+            "maxHp": 20,
+            "damage": 15,
+            "level": 0,
+            "probability_min": 14,
+            "probability_max": 16
+        }
+    },
+    "Tower_2": {
+        "1": {
+            "name": "Angry Ogre",
+            "hp": 110,
+            "maxHp": 110,
+            "damage": 30,
+            "level": 0,
+            "probability_min": 1,
+            "probability_max": 2
+        },
+        "2": {
+            "name": "Shaman Goblin",
+            "hp": 90,
+            "maxHp": 90,
+            "damage": 35,
+            "level": 0,
+            "probability_min": 3,
+            "probability_max": 4
+        },
+        "3": {
+            "name": "Crocodile king",
+            "hp": 130,
+            "maxHp": 130,
+            "damage": 45,
+            "level": 0,
+            "probability_min": 5,
+            "probability_max": 6
+        },
+        "4": {
+            "name": "Cursed Warrior",
+            "hp": 150,
+            "maxHp": 150,
+            "damage": 40,
+            "level": 0,
+            "probability_min": 5,
+            "probability_max": 6
+        }
+    }
+}

@@ -1,0 +1,8 @@
+Arrumar o dormir da Arqueira
+Colocar informativo de não pode usar o item ao pickar
+Arrumar o vazio ao andar na dungeon ou donjon
+Arrumar o dormir em dias
+Não curando vida ao dormir
+Arrumar compra de flecha no blacksmith
+Bug ao pegar item
+Balancear a chance de cair nas dungeons

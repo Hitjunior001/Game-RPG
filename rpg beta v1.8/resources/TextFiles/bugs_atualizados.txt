@@ -1,0 +1,12 @@
+1.7
+- - Arrumar o dormir da Arqueira
+- - Colocar informativo de não pode usar o item ao pegar
+- - Arrumar o vazio ao andar na dungeon ou donjon
+- - Arrumar o dormir em dias
+- - Não curando vida ao dormir
+- - Arrumar compra de flecha no blacksmith
+- - Bug ao pegar item
+- - Balancear a chance de cair nas dungeons
+- - Problema ao não conseguir equipar um item
+- - Problema ao não conseguir atacar Mob
+- - Problema ao não conseguir usar o especial mesmo com a arma

@@ -1,0 +1,86 @@
+{
+    "all": [
+    {
+        "name": "Super Life",
+        "typer": "potion",
+        "style": "all",
+        "damage": 0,
+        "armor": 0,
+        "life": 300,
+        "energy": 0,
+        "gold": 60
+    },
+    {
+        "name": "Super Energy",
+        "typer": "potion",
+        "style": "all",
+        "damage": 0,
+        "armor": 0,
+        "life": 0,
+        "energy": 300,
+        "gold": 60
+    },
+    {
+        "name": "Centipede Armor",
+        "typer": "chest",
+        "style": "all",
+        "damage": 0,
+        "armor": 150,
+        "life": 0,
+        "energy": 0,
+        "gold": 200
+    },
+    {
+        "name": "Arch of Destruction",
+        "typer": "weapon",
+        "style": "archery",
+        "damage": 160,
+        "armor": 0,
+        "life": 0,
+        "energy": 0,
+        "gold": 300
+    },
+    {
+        "name": "Arrow",
+        "typer": "quiver",
+        "style": "archery",
+        "damage": 0,
+        "armor": 0,
+        "life": 0,
+        "energy": 0,
+        "gold": 5,
+        "arrows": 30
+    },
+    {
+        "name": "Dark Sword",
+        "typer": "weapon",
+        "style": "sword",
+        "damage": 100,
+        "armor": 0,
+        "life": 0,
+        "energy": 0,
+        "gold": 200
+    },
+    {
+        "name": "Infernal Alabarda",
+        "typer": "weapon",
+        "style": "lancer",
+        "damage": 130,
+        "armor": 0,
+        "life": 0,
+        "energy": 0,
+        "gold": 250
+    },
+    {
+        "name": "Dark Sice",
+        "typer": "weapon",
+        "style": "Dragontooth",
+        "damage": 150,
+        "armor": 0,
+        "life": 0,
+        "energy": 0,
+        "gold": 270
+    }
+    
+
+]}

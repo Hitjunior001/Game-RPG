@@ -1,0 +1,16 @@
+Versão do jogo 2.0
+Criado por Reginaldo e André
+Participação de João e Jorge
+Características:
+- Bugs Arrumados
+- Mochila!! Agora você pode comprar uma mochila e aumentar seu espaço em Utilidades no Ferreiro
+- Novo local
+- - Tower 2
+- Novos itens no drop( Tower 2 )
+- - Curved Chest
+- - Curved Dagger
+- Novos Mobs na Tower 2
+- - Crododile King
+- - Cursed Warrior
+- - Angry Ogre  
+- - Shaman Goblin

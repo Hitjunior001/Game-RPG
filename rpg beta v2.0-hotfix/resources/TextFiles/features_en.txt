@@ -1,0 +1,19 @@
+Game Version 1.9
+Created by Reginaldo and Andre
+Participation of João and Jorge
+Features:
+- Bugs fixeds
+- Bag!! Now You can buy a bag and increase space in utility - Blacksmith
+- New itens in drop( Dungeon )
+- - Map
+- New itens in salesman
+- - Potion Energy
+- - Pontion Full
+- - Dual Crossbow
+- - Sword Amount
+- - Halberd
+- New Map!, you can left of dungeon with Map
+- Update new blacksmith
+- Update in life of mobs in ground
+- New boss in Dungeon
+- New Save and Load game!!!

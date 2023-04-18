@@ -1,0 +1,10 @@
+Game Version 1.7
+Created by Reginaldo and Andre
+Participation of João and Jorge
+Features:
+- Bugs fixeds
+- System of language
+- - translate for PT-BR
+- - translate for para EN-US
+- You cannot attack whitout equipped weapon
+- Map in beta

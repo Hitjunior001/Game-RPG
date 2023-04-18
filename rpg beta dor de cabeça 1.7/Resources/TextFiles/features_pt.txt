@@ -1,0 +1,10 @@
+Versão do jogo 1.7
+Criado por Reginaldo e André
+Participação de João e Jorge
+Características:
+- Bugs corrigidos
+- Sistema de linguagem
+- - Jogo traduzido para PT-BR
+- - Jogo traduzido para EN-US
+- Você não pode atacar se não tiver uma arma equipada
+- Mapa em estado beta na dungeon.

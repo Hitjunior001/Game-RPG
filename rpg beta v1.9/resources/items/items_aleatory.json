@@ -1,0 +1,260 @@
+{
+    "Ground": {
+        "1": {
+            "name": "SmallAxe",
+            "typer": "weapon",
+            "style": "meele",
+            "damage": 10,
+            "armor": 0,
+            "life": 0,
+            "energy": 0,
+            "gold": 2,
+            "probability_min": 0,
+            "probability_max": 2
+        },
+        "2": {
+            "name": "Potion Life",
+            "typer": "potion",
+            "style": "all",
+            "damage": 0,
+            "armor": 0,
+            "life": 50,
+            "energy": 0,
+            "gold": 1,
+            "probability_min": 3,
+            "probability_max": 5
+        },
+        "3": {
+            "name": "Stick",
+            "typer": "weapon",
+            "style": "all",
+            "damage": 5,
+            "armor": 0,
+            "life": 0,
+            "energy": 0,
+            "gold": 2,
+            "probability_min": 6,
+            "probability_max": 9
+        },
+        "4": {
+            "name": "Sword",
+            "typer": "weapon",
+            "style": "sword",
+            "damage": 15,
+            "armor": 0,
+            "life": 0,
+            "energy": 0,
+            "gold": 3,
+            "probability_min": 10,
+            "probability_max": 11
+        },
+        "5": {
+            "name": "BigSword",
+            "typer": "weapon",
+            "style": "sword",
+            "damage": 20,
+            "armor": 0,
+            "life": 0,
+            "energy": 0,
+            "gold": 4,
+            "probability_min": 12,
+            "probability_max": 12
+        },
+        "6": {
+            "name": "Chest",
+            "typer": "chest",
+            "style": "all",
+            "damage": 0,
+            "armor": 20,
+            "life": 0,
+            "energy": 0,
+            "gold": 4,
+            "probability_min": 13,
+            "probability_max": 14
+        },
+        "7":{
+            "name": "Potion Energy",
+            "typer": "potion",
+            "style": "all",
+            "damage": 0,
+            "armor": 0,
+            "life": 50,
+            "energy": 0,
+            "gold": 2,
+            "probability_min": 15,
+            "probability_max": 17
+        },
+        "8": {
+            "name": "Potion Full",
+            "typer": "potion",
+            "style": "all",
+            "damage": 0,
+            "armor": 0,
+            "life": 50,
+            "energy": 50,
+            "gold": 8,
+            "probability_min": 18,
+            "probability_max": 18
+        },
+        "9":{
+            "name": "Spear",
+            "typer": "weapon",
+            "style": "lancer",
+            "damage": 30,
+            "armor": 0,
+            "life": 0,
+            "energy": 0,
+            "gold": 8,
+            "probability_min": 19,
+            "probability_max": 19
+        },
+        "10": {
+            "name": "Dagger",
+            "typer": "weapon",
+            "style": "all",
+            "damage": 10,
+            "armor": 0,
+            "life": 0,
+            "energy": 0,
+            "gold": 5,
+            "probability_min": 20,
+            "probability_max": 20
+        }
+    },
+    "Donjon":{
+        "1":{
+            "name": "Scorpion tail",
+            "typer": "weapon",
+            "style": "all",
+            "damage": 15,
+            "armor": 0,
+            "life": 0,
+            "energy": 0,
+            "gold": 10,
+            "probability_min":0, 
+            "probability_max":5     
+        },
+        "2": {
+            "name": "Torch",
+            "typer": "test",
+            "style": "all",
+            "damage": 0,
+            "armor": 0,
+            "life": 0,
+            "energy": 0,
+            "gold": 5,
+            "probability_min": 6,
+            "probability_max": 9
+        },
+        "3":{
+            "name": "Potion Life",
+            "typer": "potion",
+            "style": "lancer",
+            "damage": 0,
+            "armor": 0,
+            "life": 50,
+            "energy": 0,
+            "gold": 5,
+            "probability_min": 10,
+            "probability_max": 14
+        },
+        "4": {
+            "name": "Potion Energy",
+            "typer": "potion",
+            "style": "all",
+            "damage": 0,
+            "armor": 0,
+            "life": 0,
+            "energy": 50,
+            "gold": 5,
+            "probability_min": 15,
+            "probability_max": 20
+        }
+    },
+    "Dungeon": {
+        "1":{
+            "name": "Potion Life",
+            "typer": "potion",
+            "style": "lancer",
+            "damage": 0,
+            "armor": 0,
+            "life": 50,
+            "energy": 0,
+            "gold": 5,
+            "probability_min": 0,
+            "probability_max": 3
+        },
+        "2": {
+            "name": "Potion Energy",
+            "typer": "potion",
+            "style": "all",
+            "damage": 0,
+            "armor": 0,
+            "life": 0,
+            "energy": 50,
+            "gold": 5,
+            "probability_min": 4,
+            "probability_max": 6
+        },
+        "3":{
+            "name": "Torch",
+            "typer": "test",
+            "style": "all",
+            "damage": 0,
+            "armor": 0,
+            "life": 0,
+            "energy": 0,
+            "gold": 5,
+            "probability_min": 7,
+            "probability_max": 10
+        },
+        "4": {
+            "name": "Key",
+            "typer": "test",
+            "style": "all",
+            "damage": 0,
+            "armor": 0,
+            "life": 0,
+            "energy": 0,
+            "gold": 10,
+            "probability_min": 11,            
+            "probability_max": 14
+        },
+        "5": {
+            "name": "Gold bag",
+            "typer": "utility",
+            "style": "all",
+            "damage": 0,
+            "armor": 0,
+            "life": 0,
+            "energy": 0,
+            "gold": 10,
+            "probability_min": 15,
+            "probability_max": 17    
+        },
+        "6": {
+            "name": "Bone",
+            "typer": "weapon",
+            "style": "all",
+            "damage": 13,
+            "armor": 0,
+            "life": 0,
+            "energy": 0,
+            "gold": 2,
+            "probability_min": 18,
+            "probability_max": 18
+        },
+        "7": {
+            "name": "Map",
+            "typer": "test",
+            "style": "all",
+            "damage": 0,
+            "armor": 0,
+            "life": 0,
+            "energy": 0,
+            "gold": 20,
+            "probability_min": 19,
+            "probability_max": 20     
+        }
+    }
+}

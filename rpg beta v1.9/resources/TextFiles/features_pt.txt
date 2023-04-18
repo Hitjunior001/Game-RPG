@@ -1,0 +1,16 @@
+Versão do jogo 1.8
+Criado por Reginaldo e André
+Participação de João e Jorge
+Características:
+- Bugs Arrumados
+- Novos itens no drop( Masmorra )
+- - Mapa
+- Novos itens no comerciante da masmorra
+- - Potion Energy
+- - Pontion Full
+- - Dual Crossbow
+- - Sword Amount
+- - Halberd
+- Novo mapa!, agora você pode sair da dungeon usando o Mapa
+- Atualização na forma de mostrar o ferreiro
+- Atualização da vida dos monstros do mapa principal

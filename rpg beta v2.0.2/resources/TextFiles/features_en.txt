@@ -1,0 +1,26 @@
+Game Version 2.0.1
+Created by Reginaldo and Andre
+Participation of João and Jorge
+Features:
+- Bugs fixeds
+-Backpack!! Now you can buy a backpack and increase your space in Utilities in the Blacksmith
+- New location
+- - Tower 2
+- New items in the drop (Tower 2 )
+- - Curved Chest
+- - Curved Dagger
+- New Mobs in Tower 2
+- - King Crododile
+- Cursed Warrior
+- - Angry Ogre  
+- - Shaman Goblin
+- New Mobs at Donjon
+- Wicked witch
+- - Blood Bats
+- New Trader (Black Market)
+- New items in salesman and black market markets
+- Load Game tidy, now you can save all the progress of the game including the map
+- Improvements in the interface and life indicator
+- Now you come to life whenever you upa de level
+- Mobs get stronger when you're stronger
+- Updated information tab

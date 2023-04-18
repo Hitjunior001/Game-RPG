@@ -1,0 +1,96 @@
+{
+    "all": [
+    {
+        "name": "Potion Life",
+        "typer": "potion",
+        "style": "all",
+        "damage": 0,
+        "armor": 0,
+        "life": 60,
+        "energy": 0,
+        "gold": 20
+    },
+    {
+        "name": "Potion Energy",
+        "typer": "potion",
+        "style": "all",
+        "damage": 0,
+        "armor": 0,
+        "life": 0,
+        "energy": 60,
+        "gold": 20
+    },
+    {
+        "name": "Potion Full",
+        "typer": "potion",
+        "style": "all",
+        "damage": 0,
+        "armor": 0,
+        "life": 60,
+        "energy": 560,
+        "gold": 35
+    },
+    {
+        "name": "Scarlet Armor",
+        "typer": "chest",
+        "style": "all",
+        "damage": 0,
+        "armor": 70,
+        "life": 0,
+        "energy": 0,
+        "gold": 90
+    },
+    {
+        "name": "Dual Crossbow",
+        "typer": "weapon",
+        "style": "archery",
+        "damage": 40,
+        "armor": 0,
+        "life": 0,
+        "energy": 0,
+        "gold": 75
+    },
+    {
+        "name": "Quiver",
+        "typer": "quiver",
+        "style": "archery",
+        "damage": 0,
+        "armor": 0,
+        "life": 0,
+        "energy": 0,
+        "gold": 10,
+        "arrows": 0
+    },
+    {
+        "name": "Arrow",
+        "typer": "quiver",
+        "style": "archery",
+        "damage": 0,
+        "armor": 0,
+        "life": 0,
+        "energy": 0,
+        "gold": 5,
+        "arrows": 10
+    },
+    {
+        "name": "Sword Amount",
+        "typer": "weapon",
+        "style": "sword",
+        "damage": 55,
+        "armor": 0,
+        "life": 0,
+        "energy": 0,
+        "gold": 85
+    },
+    {
+        "name": "Halberd",
+        "typer": "weapon",
+        "style": "lancer",
+        "damage": 40,
+        "armor": 0,
+        "life": 0,
+        "energy": 0,
+        "gold": 70
+    }
+
+]}
